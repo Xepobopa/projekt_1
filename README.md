@@ -1,2 +1,2 @@
-Server send image.jpg
-Client save this image ans save to client folder 
+Server send `image.jpg`.
+Client save this image `client` folder 
